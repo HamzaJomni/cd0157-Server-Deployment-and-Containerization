@@ -8,7 +8,7 @@ import pytest
 import main
 
 SECRET = 'TestSecret'
-TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk0ODY4NTYsIm5iZiI6MTY2ODI3NzI1NiwiZW1haWwiOiJ3b2xmQHRoZWRvb3IuY29tIn0.uNpDY14jNUGDDk1VJ9xLLe7Vm5Eb0MTy_cOoE8foZsk'
+TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk0OTgwODMsIm5iZiI6MTY2ODI4ODQ4MywiZW1haWwiOiJ3b2xmQHRoZWRvb3IuY29tIn0.rnf5i-vMqginlQFRSndFOrcfnESsd6bW_8iYuo-hHls'
 PASSWORD = 'huff-puff'
 
 @pytest.fixture
